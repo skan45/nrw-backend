@@ -135,6 +135,3 @@ def main():
             print("\nBot:", response)
         except Exception as e:
             print(f"An error occurred: {str(e)}")
-
-if _name_ == "_main_":
-    main()
