@@ -17,7 +17,7 @@ os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Predefined PDF path
-PDF_PATH = "NRW_data .pdf"
+PDF_PATH = "NRW.pdf"
 
 # Website URL (replace with actual NRW Congress website URL)
 WEBSITE_URL = "https://nrw.ieee.tn/Technical-challenges"
