@@ -10,3 +10,4 @@ langchain-community
 flask
 gunicorn
 flask_cors
+bs4
